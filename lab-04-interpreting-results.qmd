@@ -1,0 +1,29 @@
+---
+title: "Lab 04 - Interpreting Results"
+author: "Lucy D'Agostino McGowan"
+date: ""
+format: html
+editor: visual
+---
+
+### Load packages
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+library(tidyverse) 
+library(Stat2Data)
+```
+
+### Load Data
+
+```{r}
+#| label: load-data
+
+data("MathEnrollment")
+```
+
+### Exercise 1
+
+Be sure to add headers for each of the following exercises.
